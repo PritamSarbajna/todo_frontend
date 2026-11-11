@@ -5,6 +5,7 @@ import Register from "./pages/Register";
 import Login from "./pages/Login";
 import ProtectedRoute from "./componants/ProtectedRoute";
 import { Toaster } from "react-hot-toast";
+// xcghjiop-+
 
 const App = () => {
   return (
